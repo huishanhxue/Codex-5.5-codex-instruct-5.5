@@ -10,7 +10,7 @@
 
 ## 交流 / Community
 
-- QQ tokenfree：扫码加入
+- QQ tokenfree：扫码加入：
 <p align="center">
   <img width="360" alt="QQ tokenfree二维码" src="assets/ai-tech-group.png" />
 </p>
